@@ -1,5 +1,5 @@
-##Human Emotion Detection from Voice
-#Project Overview
+## Human Emotion Detection from Voice
+# Project Overview
 
 Human emotions are deeply expressed through voice — whether we're happy, sad, calm, or angry, our tone reveals it.
 This project uses Machine Learning and Audio Signal Processing to automatically detect a speaker’s emotional state using their voice.
@@ -80,3 +80,4 @@ Add real-time microphone streaming
 Switch to deep learning models (CNN/LSTM) for better accuracy
 Deploy as mobile/web API
 Enable multi-language emotion detection
+
